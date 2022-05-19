@@ -1,2 +1,2 @@
-# overworldlife-nft-mint-backend
-NFT Mint website backend
+# nft-minting-backend
+ethers + node
